@@ -31,6 +31,8 @@ Exploratory analysis of what drives burnout among tech workers.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
 
 **Student Performance Analysis**
 Statistical analysis of the factors behind students' final grades (group project).
