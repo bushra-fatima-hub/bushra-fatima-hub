@@ -9,7 +9,7 @@ I like seeing a problem all the way through, from a raw dataset to a result some
 #### What I'm working on now
 
 - Deep learning projects in PyTorch, including computer vision
-- Statistical modelling and data analysis in R and Python through my MDSA program
+- Statistical modelling and data analysis in R and Python
 - Turning trained models into small apps that anyone can try
 
 ---
