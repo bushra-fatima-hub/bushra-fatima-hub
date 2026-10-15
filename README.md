@@ -1,4 +1,5 @@
 ### Hi, I'm Bushra Fatima. Welcome to my GitHub.
+Data Science · Data Analytics · Business Analytics · AI · Master of Data Science and Analytics, University of Calgary
 
 I'm a Master of Data Science and Analytics student at the University of Calgary, with a bachelor's degree in Computer Science.
 
