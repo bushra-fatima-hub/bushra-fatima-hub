@@ -1,4 +1,4 @@
-## Hi there, I'm Bushra
+## Hi , I'm Bushra Fatima, Welcome to my GitHub
 
 **Data Science · Data Analytics · Business Analytics · AI**
 
