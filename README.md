@@ -26,16 +26,18 @@ AI model that detects rust in steel images and grades how severe it is. Runs on 
 ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
 
 **Burnout in Tech Workers**
-Exploratory analysis of what drives burnout among tech workers.
+**[Burnout in Tech Workers](https://github.com/bushra-fatima-hub/burnout-prediction)**
+Predicts burnout from work and lifestyle habits for 100,000 tech workers. A linear regression model explains 71% of the variation in burnout on unseen employees, with work hours, sleep and meetings as the strongest drivers.
+[View project](https://github.com/bushra-fatima-hub/burnout-prediction) · [Notebook](https://github.com/bushra-fatima-hub/burnout-prediction/blob/main/burnout_prediction.ipynb)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square)
 
-**Student Performance Analysis**
-Statistical analysis of the factors behind students' final grades (group project).
+**[Student Performance Analysis](https://github.com/bushra-fatima-hub/student-performance-analysis)**
+Hypothesis testing on 382 secondary school students. Students score about 2 points higher in Portuguese than in Maths, and urban students outperform rural students, confirmed with t-tests and bootstrap confidence intervals.
+[View project](https://github.com/bushra-fatima-hub/student-performance-analysis) · [R code](https://github.com/bushra-fatima-hub/student-performance-analysis/blob/main/student_performance_analysis.Rmd)
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-1E7B45?style=flat-square)
@@ -60,5 +62,5 @@ Statistical analysis of the factors behind students' final grades (group project
 
 #### Find me online
 
-- [LinkedIn](https://www.linkedin.com/in/bushra-fatima-284920344)
+- [LinkedIn](https://www.linkedin.com/in/bushraafatima)
 - [Email](mailto:fatimab2709@gmail.com)
