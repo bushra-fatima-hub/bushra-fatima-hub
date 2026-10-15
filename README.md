@@ -3,7 +3,7 @@
 
 I'm a Master of Data Science and Analytics student at the University of Calgary, with a bachelor's degree in Computer Science.
 
-I like seeing a problem all the way through, from a raw dataset to a result someone can actually use. Some of my work is analysis and statistics, finding out what the data really says. Some of it is AI, building and deploying models for problems where simpler methods aren't enough. This is where I keep both.
+I work across the whole path from raw data to a decision: cleaning and exploring data, testing what it really shows, building machine learning and AI models, and presenting the results so a team can act on them. Depending on the problem, that might be a statistical test, a Power BI or Tableau dashboard, or an AI model deployed as an app people can use.
 
 ---
 
