@@ -9,10 +9,10 @@ I work across the whole path from raw data to a decision: cleaning and exploring
 
 #### What I'm working on now
 
-- Analytics and business intelligence: turning raw data into clear KPIs, reports and dashboards in Power BI and Tableau
-- Statistics: hypothesis tests, confidence intervals, bootstrapping and regression, to separate real effects from noise
-- Machine learning: predictive models in scikit-learn, from data preparation to testing on data the model has never seen
-- AI and computer vision: deep learning models in PyTorch, exported with ONNX and deployed as web apps
+- **Analytics and business intelligence:** turning raw data into clear KPIs, reports and dashboards in Power BI and Tableau
+- **Statistics:** hypothesis tests, confidence intervals, bootstrapping and regression, to separate real effects from noise
+- **Machine learning:** predictive models in scikit-learn, from data preparation to testing on data the model has never seen
+- **AI and computer vision:** deep learning models in PyTorch, exported with ONNX and deployed as web apps
 
 ---
 
@@ -49,11 +49,15 @@ Hypothesis testing on 382 secondary school students. Students score about 2 poin
 #### Skills
 
 **Languages:** Python, R, SQL
+**Analytics and BI:** Power BI, Tableau, Excel 
 **Data analysis and visualisation:** pandas, NumPy, Matplotlib, ggplot2
-**Statistics:** statistical analysis and modelling
-**Machine learning and AI:** PyTorch, deep learning, computer vision
-**Deployment:** ONNX, Gradio
-**Tools:** Git, Jupyter, Google Colab, VS Code
+**Statistics:** hypothesis testing, confidence intervals, bootstrapping, regression 
+**Machine learning:** scikit-learn (regression, Random Forest, KNN)
+**Deep Learning and AI:** PyTorch, computer vision
+**Deployment:** Flask, Hugging Face Spaces, Git & GitHub, ONNX, AWS (S3, EC2, SageMaker – learning)
+**Tools:** Jupyter, Google Colab, RStudio, VS Code
+
+Languages: Python, R, SQL Analytics and BI: Power BI, Tableau, Excel Data analysis and visualisation: pandas, NumPy, Matplotlib, seaborn, ggplot2 Statistics: hypothesis testing, confidence intervals, bootstrapping, regression Machine learning: scikit-learn (regression, Random Forest, KNN) Deep learning and AI: PyTorch, computer vision, transfer learning Deployment and cloud: Flask, Hugging Face Spaces, Git & GitHub, ONNX, AWS (S3, EC2, SageMaker – learning) Tools: Jupyter, Google Colab, RStudio, VS Code
 
 #### Education
 
