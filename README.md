@@ -9,9 +9,10 @@ I work across the whole path from raw data to a decision: cleaning and exploring
 
 #### What I'm working on now
 
-- Deep learning projects in PyTorch, including computer vision
-- Statistical modelling and data analysis in R and Python
-- Turning trained models into small apps that anyone can try
+- Analytics and business intelligence: turning raw data into clear KPIs, reports and dashboards in Power BI and Tableau
+- Statistics: hypothesis tests, confidence intervals, bootstrapping and regression, to separate real effects from noise
+- Machine learning: predictive models in scikit-learn, from data preparation to testing on data the model has never seen
+- AI and computer vision: deep learning models in PyTorch, exported with ONNX and deployed as web apps
 
 ---
 
